@@ -61,6 +61,7 @@ Active Navigation: Current section highlighted in navigation
 Form Validation: Real-time feedback with custom notifications
 Smooth Scrolling: Parallax effects and progress indicators
 Micro-interactions: Hover states, focus effects, and button 
+Live Chat option with Tidio
 
 
 # 🌟 Sections Included

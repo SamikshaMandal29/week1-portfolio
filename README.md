@@ -3,31 +3,49 @@ A modern, responsive portfolio website showcasing Samiksha Mandal's skills, proj
 
 # 🌟Features
 🎨Modern Design: Clean, professional design with smooth animations and transitions
+<br>
 🌈 Dark Mode: Toggle between light and dark themes with iridescent gradients
+<br>
 📱 Fully Responsive: Optimized for desktop, tablet, and mobile devices
+<br>
 ⚡ Interactive Elements: Hover effects, active navigation, micro-interactions
+<br>
 🎯 Accessibility: Semantic HTML5 structure with proper ARIA labels
+<br>
 🚀 Performance: Optimized animations using Intersection Observer API
+<br>
 🛠️ Technologies Used
+<br>
  HTML5: Semantic markup for better structure and SEO
+ <br>
  CSS3: Modern features including Grid, Flexbox, and custom properties
+ <br>
  JavaScript (ES6+): Clean, modular code for interactivity
+ <br>
  Font Awesome: Professional icons for visual appeal
 
 # Project Structure
     week1-portfolio/
 ├── index.html              # Main HTML file
+<br>
 ├── css/
 │   ├── variables.css        # CSS variables for theming
+<br>
 │   ├── style.css          # Main stylesheet
+<br>
 │   └── responsive.css     # Media queries for responsiveness
+<br>
 ├── js/
+<br>
 │   └── navigation.js      # JavaScript for interactions
+<br>
 ├── README.md             # Project documentation
+<br>
 └── .gitignore           # Git ignore file
 
 # 🎨 Design System
 Light Mode Colors
+<br>
  Primary: #ffcdb2 (Soft Peach)
  Secondary: #e5989b (Rose Pink)
  Accent: #b5838d (Dusty Rose)
